@@ -30,10 +30,10 @@ The data is initially raw and requires cleaning and normalization before being i
 
 
 # Process
-- 1. Data Exploration
-- 2. Data Cleaning
-- 3. Data Normalization
-- 4. Relational Database & SQL
+- Data Exploration
+- Data Cleaning
+- Data Normalization
+- Relational Database & SQL
 
 
 # Skill
