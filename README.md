@@ -49,3 +49,4 @@ The data is initially raw and requires cleaning and normalization before being i
 # Contact
 - [LinkedIn](https://www.linkedin.com/in/tasyamla/)
 - [Email](mailto:tsyamalia04@gmail.com)
+- [My Other Portofolio](https://drive.google.com/file/d/1IlR4obHCGwR55E_c9mcdsSrcAv2CXMRB/view)
